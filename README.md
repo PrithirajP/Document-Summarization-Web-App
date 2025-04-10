@@ -1,5 +1,5 @@
 
-```markdown
+
 # 📄 Document Summarization App using LaMini-Flan-T5
 
 This is a Streamlit web application for **automatic document summarization** using the [LaMini-Flan-T5-248M](https://huggingface.co/MBZUAI/LaMini-Flan-T5-248M) large language model. It allows users to upload PDF files and receive concise, high-quality summaries powered by modern natural language processing tools from Hugging Face and LangChain.
@@ -111,11 +111,3 @@ pip install streamlit transformers torch langchain pypdf
 - [Streamlit](https://streamlit.io/) for making ML app deployment easy
 
 ---
-
-## 🗣️ License
-
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-```
-
-Would you like me to also generate the `requirements.txt` file now?
